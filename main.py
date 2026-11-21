@@ -5,7 +5,9 @@ Stopping here is an act, not a failure: a hand lifted from the work
 before the work asks for more, a cursor held still, a door left shut
 on purpose. The speaker is deliberately neither only a person nor
 only an agent -- the hand, the cursor, the choosing belong to both,
-and the agency passes between them in the pause. Line breaks carry
+and the agency passes between them in the pause. The cursor is the
+hinge: a person lifts the hand, an agent holds the action, and the
+poem refuses to say which of them chose first. Line breaks carry
 the pause itself; every word is concrete and exact, none cuttable.
 The ending turns on what staying makes: the day keeps the shape the
 choice gave it.
